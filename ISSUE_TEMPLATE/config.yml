@@ -4,7 +4,7 @@ contact_links:
     url: https://harrisonward.com
     about: Active clients should use the client portal or help desk, not GitHub issues.
   - name: Security vulnerability
-    url: https://github.com/YOUR-ORG/.github/security/policy
+    url: https://github.com/harrisonwardtechnology/.github/security/policy
     about: Do not open a public issue. Follow the security policy.
   - name: Sales and general inquiries
     url: https://harrisonward.com
